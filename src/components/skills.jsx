@@ -148,12 +148,12 @@ function Skills() {
             name: 'DATABASE',
             tools: [
                 {
-                    name: 'MySQL',
-                    image: Mysql
-                },
-                {
                     name: 'PostgreSQL',
                     image: Postgres
+                },
+                {
+                    name: 'MySQL',
+                    image: Mysql
                 },
                 {
                     name: 'OracleSQL',

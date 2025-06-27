@@ -20,7 +20,7 @@ function Introduction() {
     };
 
     return(
-        <div className={`flex md:flex-row flex-col w-full md:mt-20 mt-5 md:mb-14 mb-5 items-center`}>
+        <div className={`flex md:flex-row flex-col w-full md:mt-14 mt-5 md:mb-14 mb-5 items-center`}>
             <div className={'md:my-10 my-5 mx-10 flex flex-col basis-1/2'}>
                 <div className={`sm:text-2xl text-xl poppins-regular py-1`}>
                     Hi i am
